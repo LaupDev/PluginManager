@@ -6,4 +6,4 @@ There are three branches:
 * master_2 - Android service that shows Toast every 10 seconds if turned on
 * master-3 - Android service that makes "beep" every 10 seconds sound if turned on
 
-**The main feature is — if you want to add a new plugin, you don't need to change anything in Plugin Manager code or manually add new plugins(services). It searches for it automatically using intent filters**
+**The main feature is — if you want to create and add a new plugin(Android Service) to Plugin Manager, you don't need to change anything in Plugin Manager code or manually add new plugins(services). It searches for it automatically using intent filters**
